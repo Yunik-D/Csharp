@@ -1,0 +1,8 @@
+Este projeto, por sua vez, tem como objetivo captar a nota do usuário e informar se ele está de reprovado, de recuperação,
+aprovado ou se a nota foi excelente.
+É um código simples que não faz nenhuma verificação ou cálculo de todas as notas do usuário, apenas pega a ultima nota e informa o resultado.
+
+Ex:
+
+Nota: 6
+resultado exibido: Aprovado.

@@ -1,0 +1,14 @@
+O conteúdo a seguir trata-se de um programa simples que pode ser usado para verificar se duas strings
+ou duas palavras são iguais. é importante lembrar que, mesmo se essas strings tiverem o mesmo conteúdo, 
+apenas uma letra diferente pode retornar false. Pois CSharp é uma linguagem Case-Sensitiva, então para a comparação
+ser verdadeira, a forma de escrita deve ser idêntica nas duas strings, ou nos dois nomes. 
+
+nome1 = "Sadie";
+nome2 = "sadie";
+
+o retorno será "False".
+
+nome1 = "Sadie";
+nome2 = "Sadie";
+
+o retorno será "True".

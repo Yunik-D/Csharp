@@ -1,0 +1,3 @@
+O conteúdo a seguir trata-se de um programa simples que verifica se um numero é impar ou par:
+Se for Impar -> retorna "O numero X é Impar"
+Se for Par -> retorna "O numero X é Par"

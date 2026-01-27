@@ -1,0 +1,2 @@
+Um programinha simples onde é solicitado um número entre 1 e 10 ao usuário
+e usando FOR, é realizado a tabuada desse número, até x 10.

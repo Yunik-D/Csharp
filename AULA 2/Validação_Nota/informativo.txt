@@ -1,0 +1,8 @@
+O sistema solicita ao usuário uma nota entre 1 e 10
+usando WHILE para a validação, se o usuário digitar um número menor que 1 ou maior que 10
+o sistema informa um erro e solicita novamente um número válido.
+
+Usando IF/ELSE,
+Se a nota for menor ou igual a 5, o sistema informa que a nota é ruim e que está reprovado.
+Se for entre 6 e 8, informa que a nota é boa e que está aprovado.
+se maior que 8, nota excelente, e mais que aprovado (seja lá o que signifique).

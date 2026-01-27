@@ -1,0 +1,14 @@
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\bin\Debug\Entrada_Evento.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\bin\Debug\Entrada_Evento.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\bin\Debug\Entrada_Evento.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\bin\Debug\Entrada_Evento.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\bin\Debug\Entrada_Evento.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\bin\Debug\Entrada_Evento.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Entrada_Evento\Entrada_Evento\obj\Debug\Entrada_Evento.pdb

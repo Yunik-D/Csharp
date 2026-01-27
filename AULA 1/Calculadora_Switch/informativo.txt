@@ -1,0 +1,5 @@
+Este projeto tem como objetivo a criação de uma calculadora simples.
+O usuário digita dois valores que serão Somados, Subtraídos, Multiplicados ou Divididos.
+O código usa Switch para que o usuário escolha a opção que melhor lhe convém.
+Números não são divididos por zero. Então, pensando nisso, o código usa operadores lógicos, bem como condição IF/ELSE para verificar.
+Se um dos números na divisão for zero, será exibida uma mensagem de erro.

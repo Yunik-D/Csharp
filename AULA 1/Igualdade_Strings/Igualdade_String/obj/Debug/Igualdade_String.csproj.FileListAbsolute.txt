@@ -1,0 +1,7 @@
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\bin\Debug\Igualdade_String.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\bin\Debug\Igualdade_String.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\bin\Debug\Igualdade_String.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\obj\Debug\Igualdade_String.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\obj\Debug\Igualdade_String.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\obj\Debug\Igualdade_String.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\Igualdade_Strings\Igualdade_String\obj\Debug\Igualdade_String.pdb

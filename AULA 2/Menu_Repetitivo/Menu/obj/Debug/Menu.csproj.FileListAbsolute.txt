@@ -1,0 +1,7 @@
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\bin\Debug\Menu.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\bin\Debug\Menu.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\bin\Debug\Menu.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\obj\Debug\Menu.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Menu_Repetitivo\Menu\obj\Debug\Menu.pdb

@@ -1,0 +1,7 @@
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\bin\Debug\Contador.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\bin\Debug\Contador.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\bin\Debug\Contador.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\obj\Debug\Contador.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\obj\Debug\Contador.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 2\Contador_Simples\Contador\obj\Debug\Contador.pdb

@@ -1,0 +1,3 @@
+O conteúdo a seguir trata-se de um programa simples de verificação de idade, onde:
+se maior de 18 -> informa ser maior de idade e que pode dirigir.
+se menor que 18 -> informa ser menor de idade e solicita que aproveite o tempo que tem antes de ser adulto.

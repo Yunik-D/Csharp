@@ -1,0 +1,14 @@
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\bin\Debug\Produto.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\bin\Debug\Produto.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\bin\Debug\Produto.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\obj\Debug\Produto.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto\Produto\obj\Debug\Produto.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\bin\Debug\Produto.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\bin\Debug\Produto.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\bin\Debug\Produto.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\obj\Debug\Produto.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 3 (POO)\Produto&Banco\Produto\obj\Debug\Produto.pdb

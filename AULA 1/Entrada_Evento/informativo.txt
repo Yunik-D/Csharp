@@ -1,0 +1,18 @@
+Este programa verifica requisitos para a entrada em um evento.
+Requisitos para entrar:
+- Ser maior de 18 anos.
+- Se menor de 18 anos, estar acompanhado de um responsável.
+- Ter um ingresso.
+
+O programa verifica cada um desses requisitos individualmente e executa conforme 
+o requisito necessário for atingido. 
+
+Se você for maior de 18 anos e tiver um ingresso, a entrada é liberada sem problemas e o programa é encerrado.
+
+No caso de ser maior de 18 anos e não tiver um ingresso, o programa é encerrado.
+
+Se você for menor de 18 anos e não estiver com um responsável, o programa é encerrado.
+
+No caso de ser menor de 18 anos, estar acompanhado de um responsável, mas não ter um ingresso. o programa é encerrado.
+
+Mas se você for menor de 18 anos, estiver acompanhado de um responsável e ter o ingresso, a entrada é liberada sem problemas e o programa é encerrado.

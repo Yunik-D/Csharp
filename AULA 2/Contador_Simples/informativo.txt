@@ -1,0 +1,2 @@
+O código seguinte é simples e de fácil compreensão usando FOR.
+Trata-se de um laço de repetição, contador, que repetirá o resultado até que o valor desejado seja obtido.

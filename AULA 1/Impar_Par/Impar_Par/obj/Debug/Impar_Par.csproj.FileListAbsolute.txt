@@ -1,0 +1,14 @@
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\bin\Debug\Impar_Par.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\bin\Debug\Impar_Par.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\bin\Debug\Impar_Par.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\obj\Debug\Impar_Par.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\obj\Debug\Impar_Par.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\obj\Debug\Impar_Par.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\Impar_Par\Impar_Par\obj\Debug\Impar_Par.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\bin\Debug\Impar_Par.exe.config
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\bin\Debug\Impar_Par.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\bin\Debug\Impar_Par.pdb
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\obj\Debug\Impar_Par.csproj.AssemblyReference.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\obj\Debug\Impar_Par.csproj.CoreCompileInputs.cache
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\obj\Debug\Impar_Par.exe
+C:\Users\ldk70\OneDrive\documents\Cshap\AULA 1\Impar_Par\Impar_Par\obj\Debug\Impar_Par.pdb

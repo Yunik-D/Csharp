@@ -1,0 +1,7 @@
+Este projeto é bem simples e trata-se apenas de um menu.
+O menu exibe opções para seleção, como:
+F -> exibe uma mensagem fofinha.
+D -> exibe a mensagem do dia.
+S -> usado para sair.
+
+Usando Do While para fazer o menu e a condição, e switch para as opções.

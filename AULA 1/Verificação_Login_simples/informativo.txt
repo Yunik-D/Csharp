@@ -1,0 +1,21 @@
+Este projeto trata-se de uma verificação simples de login, onde o sistema compara os dados informados pelo usuário
+com dados que estão predefinidos por padrão.
+Se o Usuário informado estiver correto, o sistema continua para a verificação da senha.
+Caso incorreto, o sistema para.
+O mesmo ocorre para a senha, mas caso ambos (usuário e senha) estejam corretos, o sistema informa que o login foi realizado.
+O sistema usa de métodos de condição IF/ELSE e operadores de comparação para verificar a veracidade das informações.
+
+Ex:
+
+Usuário padrão: "Sadie"
+Senha padrão: "123456
+
+Dados digitados pelo usuário:
+
+User: "Sad" -> Usuário inexistente (sistema para)
+User: "Sadie" -> Segue para senha
+Pass: "1234" -> Senha incorreta (sistema para)
+
+User: "Sadie" -> Correto
+Pass: "123456" ->Login realizado com sucesso!
+
