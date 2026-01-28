@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ldk70\\OneDrive\\documents\\Cshap\\AULA 3 (POO)\\Banco\\Banco\\",
+  "WorkspaceRootPath": "C:\\Users\\ldk70\\OneDrive\\documents\\CSharp\\AULA 3 (POO)\\Banco\\Banco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D18CD65-AD22-4466-9376-4F7B000974D0}|Banco.csproj|c:\\users\\ldk70\\onedrive\\documents\\cshap\\aula 3 (poo)\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D18CD65-AD22-4466-9376-4F7B000974D0}|Banco.csproj|c:\\users\\ldk70\\onedrive\\documents\\csharp\\aula 3 (poo)\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D18CD65-AD22-4466-9376-4F7B000974D0}|Banco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D18CD65-AD22-4466-9376-4F7B000974D0}|Banco.csproj|C:\\Users\\ldk70\\OneDrive\\documents\\Cshap\\AULA 3 (POO)\\Banco\\Banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D18CD65-AD22-4466-9376-4F7B000974D0}|Banco.csproj|C:\\Users\\ldk70\\OneDrive\\documents\\CSharp\\AULA 3 (POO)\\Banco\\Banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D18CD65-AD22-4466-9376-4F7B000974D0}|Banco.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\ldk70\\OneDrive\\documents\\Cshap\\AULA 3 (POO)\\Banco\\Banco\\Conta.cs",
+              "DocumentMoniker": "C:\\Users\\ldk70\\OneDrive\\documents\\CSharp\\AULA 3 (POO)\\Banco\\Banco\\Conta.cs",
               "RelativeDocumentMoniker": "Conta.cs",
-              "ToolTip": "C:\\Users\\ldk70\\OneDrive\\documents\\Cshap\\AULA 3 (POO)\\Banco\\Banco\\Conta.cs",
+              "ToolTip": "C:\\Users\\ldk70\\OneDrive\\documents\\CSharp\\AULA 3 (POO)\\Banco\\Banco\\Conta.cs",
               "RelativeToolTip": "Conta.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:51:00.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:51:00.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ldk70\\OneDrive\\documents\\Cshap\\AULA 3 (POO)\\Banco\\Banco\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ldk70\\OneDrive\\documents\\CSharp\\AULA 3 (POO)\\Banco\\Banco\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ldk70\\OneDrive\\documents\\Cshap\\AULA 3 (POO)\\Banco\\Banco\\Program.cs*",
+              "ToolTip": "C:\\Users\\ldk70\\OneDrive\\documents\\CSharp\\AULA 3 (POO)\\Banco\\Banco\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAIAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwLcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T16:50:23.813Z",
               "EditorCaption": ""

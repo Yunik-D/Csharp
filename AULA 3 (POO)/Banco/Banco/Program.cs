@@ -175,6 +175,7 @@ namespace Banco
 
                     default:
                         // Caso o usuário digite uma opção inválida
+                        Console.Clear();
                         Console.WriteLine("Opção inválida! Selecione uma das opções abaixo: ");
                         break;
                 }
