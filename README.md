@@ -77,4 +77,3 @@ Para contribuir:
 - Crie uma branch destinada à sua modificação
 - Submeta um Pull Request descrevendo, com clareza, as alterações propostas
 
-Este repositório será atualizado com frequência mínima semanal, com vistas à melhoria contínua da organização das pastas e arquivos, bem como à adição constante de novos conteúdos e exercícios.
